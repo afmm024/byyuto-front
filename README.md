@@ -20,3 +20,7 @@ I use YARN
   yarn
   yarn dev
 ```
+
+## Recomendations
+
+use Node v20
